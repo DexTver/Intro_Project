@@ -1,0 +1,4 @@
+.idea
+venv
+MyNotes/migrations
+db.sqlite3
